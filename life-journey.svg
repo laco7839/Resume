@@ -29,9 +29,9 @@
            S 420 140, 450 120" 
         fill="#00838f" opacity="0.9"/>
   <text x="600" y="160" text-anchor="middle" fill="#ffffff" font-size="22" font-family="Arial Rounded MT Bold">Professional Skills</text>
-  <text x="600" y="195" text-anchor="middle" fill="#ffffff" font-size="16">• Adobe Suite & Microsoft Platforms</text>
+  <text x="600" y="195" text-anchor="middle" fill="#ffffff" font-size="16">• Adobe Suite and Microsoft Platforms</text>
   <text x="600" y="225" text-anchor="middle" fill="#ffffff" font-size="16">• Content Project Management</text>
-  <text x="600" y="255" text-anchor="middle" fill="#ffffff" font-size="16">• Creative Thinking & Leadership</text>
+  <text x="600" y="255" text-anchor="middle" fill="#ffffff" font-size="16">• Creative Thinking and Leadership</text>
   
   <!-- Achievements Bubble - Enlarged -->
   <path d="M 750 120 
