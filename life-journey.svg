@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <!-- Background -->
+  <rect width="1200" height="800" fill="#ffffff"/>
+  
+  <!-- Main Timeline - Gentle Wave -->
+  <path d="M 150 400 Q 400 380, 600 400 T 1050 400" 
+        stroke="#b2d8d8" 
+        fill="none"
+        stroke-width="6"
+        stroke-linecap="round"/>
+
+  <!-- Career Bubble - Enlarged -->
+  <path d="M 150 120 
+           C 180 100, 380 100, 450 140 
+           S 500 220, 450 280 
+           S 200 300, 150 240 
+           S 120 140, 150 120" 
+        fill="#083d56" opacity="0.9"/>
+  <text x="300" y="160" text-anchor="middle" fill="#ffffff" font-size="22" font-family="Arial Rounded MT Bold">Career Journey</text>
+  <text x="300" y="195" text-anchor="middle" fill="#ffffff" font-size="16">• Stable Beverage Sales Rep</text>
+  <text x="300" y="225" text-anchor="middle" fill="#ffffff" font-size="16">• Zevia Brand Representative</text>
+  <text x="300" y="255" text-anchor="middle" fill="#ffffff" font-size="16">• USA Triathlon Coordinator</text>
+  
+  <!-- Skills Bubble - Enlarged -->
+  <path d="M 450 120 
+           C 480 100, 680 100, 750 140 
+           S 800 220, 750 280 
+           S 500 300, 450 240 
+           S 420 140, 450 120" 
+        fill="#00838f" opacity="0.9"/>
+  <text x="600" y="160" text-anchor="middle" fill="#ffffff" font-size="22" font-family="Arial Rounded MT Bold">Professional Skills</text>
+  <text x="600" y="195" text-anchor="middle" fill="#ffffff" font-size="16">• Adobe Suite & Microsoft Platforms</text>
+  <text x="600" y="225" text-anchor="middle" fill="#ffffff" font-size="16">• Content Project Management</text>
+  <text x="600" y="255" text-anchor="middle" fill="#ffffff" font-size="16">• Creative Thinking & Leadership</text>
+  
+  <!-- Achievements Bubble - Enlarged -->
+  <path d="M 750 120 
+           C 780 100, 980 100, 1050 140 
+           S 1100 220, 1050 280 
+           S 800 300, 750 240 
+           S 720 140, 750 120" 
+        fill="#004d6d" opacity="0.9"/>
+  <text x="900" y="160" text-anchor="middle" fill="#ffffff" font-size="22" font-family="Arial Rounded MT Bold">Achievements</text>
+  <text x="900" y="195" text-anchor="middle" fill="#ffffff" font-size="16">• B.S. Strategic Communications</text>
+  <text x="900" y="225" text-anchor="middle" fill="#ffffff" font-size="16">• 3.8 GPA at Liberty University</text>
+  <text x="900" y="255" text-anchor="middle" fill="#ffffff" font-size="16">• Triathlon Team Captain</text>
+  
+  <!-- Personal Elements - Enlarged -->
+  <path d="M 150 520 
+           C 180 500, 380 500, 450 540 
+           S 500 620, 450 680 
+           S 200 700, 150 640 
+           S 120 540, 150 520" 
+        fill="#4f6d7a" opacity="0.9"/>
+  <text x="300" y="570" text-anchor="middle" fill="#ffffff" font-size="22" font-family="Arial Rounded MT Bold">Hobbies</text>
+  <text x="300" y="610" text-anchor="middle" fill="#ffffff" font-size="16">• Triathlon - Swim, Bike, Run</text>
+  
+  <path d="M 450 520 
+           C 480 500, 680 500, 750 540 
+           S 800 620, 750 680 
+           S 500 700, 450 640 
+           S 420 540, 450 520" 
+        fill="#83c5be" opacity="0.9"/>
+  <text x="600" y="570" text-anchor="middle" fill="#ffffff" font-size="22" font-family="Arial Rounded MT Bold">Family</text>
+  <text x="600" y="610" text-anchor="middle" fill="#ffffff" font-size="16">• Oldest of 4 kids</text>
+  <text x="600" y="640" text-anchor="middle" fill="#ffffff" font-size="16">• Married in 2020</text>
+  
+  <path d="M 750 520 
+           C 780 500, 980 500, 1050 540 
+           S 1100 620, 1050 680 
+           S 800 700, 750 640 
+           S 720 540, 750 520" 
+        fill="#006466" opacity="0.9"/>
+  <text x="900" y="570" text-anchor="middle" fill="#ffffff" font-size="22" font-family="Arial Rounded MT Bold">Goals</text>
+  <text x="900" y="610" text-anchor="middle" fill="#ffffff" font-size="16">• Swim the English Channel</text>
+  <text x="900" y="640" text-anchor="middle" fill="#ffffff" font-size="16">• Create some cool stuff</text>
+  <text x="900" y="670" text-anchor="middle" fill="#ffffff" font-size="16">• Be brave, and be bold</text>
+  
+  <!-- Connecting Lines - Organic -->
+  <path d="M 300 280 Q 300 340, 300 400" stroke="#083d56" stroke-width="3" fill="none" opacity="0.6"/>
+  <path d="M 600 280 Q 600 340, 600 400" stroke="#00838f" stroke-width="3" fill="none" opacity="0.6"/>
+  <path d="M 900 280 Q 900 340, 900 400" stroke="#004d6d" stroke-width="3" fill="none" opacity="0.6"/>
+  <path d="M 300 520 Q 300 460, 300 400" stroke="#4f6d7a" stroke-width="3" fill="none" opacity="0.6"/>
+  <path d="M 600 520 Q 600 460, 600 400" stroke="#83c5be" stroke-width="3" fill="none" opacity="0.6"/>
+  <path d="M 900 520 Q 900 460, 900 400" stroke="#006466" stroke-width="3" fill="none" opacity="0.6"/>
+  
+  <!-- Timeline Points -->
+  <circle cx="300" cy="400" r="10" fill="#006d77" opacity="0.8"/>
+  <circle cx="600" cy="400" r="10" fill="#006d77" opacity="0.8"/>
+  <circle cx="900" cy="400" r="10" fill="#006d77" opacity="0.8"/>
+  
+  <!-- Decorative Elements -->
+  <circle cx="150" cy="400" r="4" fill="#b2d8d8" opacity="0.5"/>
+  <circle cx="1050" cy="400" r="4" fill="#b2d8d8" opacity="0.5"/>
+  
+  <!-- Title -->
+  <text x="600" y="50" text-anchor="middle" fill="#083d56" font-size="24" font-family="Arial Rounded MT Bold">Professional Journey</text>
+</svg>
